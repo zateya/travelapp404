@@ -1,0 +1,19 @@
+.button {
+  display: inline-block;
+  vertical-align: baseline;
+  padding: 7px 25px;
+  font-size: 15px;
+  line-height: 30px;
+  font-weight: 700;
+  text-transform: uppercase;
+  text-decoration: none;
+  letter-spacing: 1px;
+  color: #ffffff;
+  background-color: #ed6355;
+  border-radius: 22px;
+  transition: background-color 0.3s ease;
+
+  &:hover {
+    background-color: #fda84f;
+  }
+}

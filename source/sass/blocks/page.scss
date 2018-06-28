@@ -1,0 +1,18 @@
+.page {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: center;
+  align-items: center;
+  min-width: 940px;
+  min-height: 100vh;
+  font-size: 18px;
+  line-height: 30px;
+  font-family: Montserrat, Arial, sans-serif;
+  color: #3d3d3d;
+  background-color: #f6f7fb;
+}
+
+.page__content {
+  padding: 48px 62px;
+}
