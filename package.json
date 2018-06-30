@@ -5,8 +5,8 @@
   "author": "telemark",
   "license": "ISC",
   "devDependencies": {
-    "autoprefixer": "^8.6.3",
-    "browser-sync": "^2.24.4",
+    "autoprefixer": "^8.6.4",
+    "browser-sync": "^2.24.5",
     "del": "^3.0.0",
     "gh-pages": "^1.2.0",
     "gulp": "^4.0.0",
