@@ -1,9 +1,15 @@
 @import "mixins";
 @import "normalize";
 @import "global/global";
+@import "global/fonts";
 @import "blocks/page";
+@import "blocks/main";
+@import "blocks/logo";
 @import "blocks/visually-hidden";
 @import "blocks/content";
+@import "blocks/error";
+@import "blocks/message";
 @import "blocks/title";
 @import "blocks/text";
 @import "blocks/button";
+@import "blocks/code";

@@ -1,57 +1,99 @@
-<svg id="Группа_2" data-name="Группа 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="124.25" height="225" viewBox="0 0 124.25 225">
-  <metadata><?xpacket begin="﻿" id="W5M0MpCehiHzreSzNTczkc9d"?>
-<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c138 79.159824, 2016/09/14-01:09:01        ">
-   <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-      <rdf:Description rdf:about=""/>
-   </rdf:RDF>
-</x:xmpmeta>
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                           
-<?xpacket end="w"?></metadata>
-<defs>
-    <style>
-      .cls-1 {
-        filter: url(#filter);
-      }
-
-      .cls-2 {
-        fill: #047dd1;
-        fill-rule: evenodd;
-      }
-    </style>
-    <filter id="filter" filterUnits="userSpaceOnUse">
-      <feFlood result="flood" flood-color="#ed6355"/>
-      <feComposite result="composite" operator="in" in2="SourceGraphic"/>
-      <feBlend result="blend" in2="SourceGraphic"/>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   id="svg2"
+   height="226px"
+   width="125px">
+  <metadata
+     id="metadata38">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs4">
+    <filter
+       id="Filter_0">
+      <feFlood
+         id="feFlood7"
+         result="floodOut"
+         flood-opacity="1"
+         flood-color="rgb(237, 99, 85)" />
+      <feComposite
+         id="feComposite9"
+         result="compOut"
+         in2="SourceGraphic"
+         in="floodOut"
+         operator="atop" />
+      <feBlend
+         id="feBlend11"
+         in2="SourceGraphic"
+         in="compOut"
+         mode="normal" />
+    </filter>
+    <filter
+       id="Filter_1">
+      <feFlood
+         id="feFlood14"
+         result="floodOut"
+         flood-opacity="1"
+         flood-color="rgb(237, 99, 85)" />
+      <feComposite
+         id="feComposite16"
+         result="compOut"
+         in2="SourceGraphic"
+         in="floodOut"
+         operator="atop" />
+      <feBlend
+         id="feBlend18"
+         in2="SourceGraphic"
+         in="compOut"
+         mode="normal" />
     </filter>
   </defs>
-  <g class="cls-1">
-    <path id="Rounded_Rectangle_1" data-name="Rounded Rectangle 1" class="cls-2" d="M364.875,334.5a5.25,5.25,0,0,1,5.25,5.25v25.266a5.25,5.25,0,1,1-10.5,0V339.75A5.249,5.249,0,0,1,364.875,334.5Z" transform="translate(-302.75 -334.5)"/>
-    <path id="Rounded_Rectangle_1_copy" data-name="Rounded Rectangle 1 copy" class="cls-2" d="M425.319,362.967a5.136,5.136,0,0,1,.169,7.266l-8.527,8.516a5.266,5.266,0,0,1-7.444-7.435l8.527-8.516A5.153,5.153,0,0,1,425.319,362.967Z" transform="translate(-302.75 -334.5)"/>
-    <path id="Rounded_Rectangle_1_copy_2" data-name="Rounded Rectangle 1 copy 2" class="cls-2" d="M304.355,363.438a5.174,5.174,0,0,0-.17,7.317l8.587,8.575a5.3,5.3,0,0,0,7.5-7.487l-8.587-8.575A5.19,5.19,0,0,0,304.355,363.438Z" transform="translate(-302.75 -334.5)"/>
+  <g
+     id="g20"
+     filter="url(#Filter_0)">
+    <path
+       style="fill:#047dd1;fill-rule:evenodd"
+       id="path22"
+       d="m 62.5,0.5 c 2.899,0 5.25,2.35 5.25,5.25 l 0,25.266 c 0,2.899 -2.351,5.25 -5.25,5.25 -2.9,0 -5.25,-2.351 -5.25,-5.25 l 0,-25.266 c 0,-2.9 2.35,-5.25 5.25,-5.25 z" />
+    <path
+       id="path24"
+       d="M123.319,28.967 C125.375,31.020 125.451,34.273 123.488,36.233 L114.961,44.749 C112.999,46.708 109.742,46.633 107.686,44.580 C105.631,42.527 105.555,39.274 107.517,37.314 L116.044,28.798 C118.006,26.838 121.264,26.914 123.319,28.967 Z"
+       fill="rgb(4, 125, 209)"
+       fill-rule="evenodd" />
+    <path
+       id="path26"
+       d="M 6.0527344 27.837891 C 4.7269844 27.868641 3.3904688 28.404 2.3554688 29.4375 C 0.28546875 31.5055 0.20954688 34.781859 2.1855469 36.755859 L 10.771484 45.330078 C 12.746484 47.303078 16.027656 47.227156 18.097656 45.160156 C 20.167656 43.093156 20.243578 39.81775 18.267578 37.84375 L 9.6816406 29.267578 C 8.6936406 28.281078 7.3784844 27.807141 6.0527344 27.837891 z " />
   </g>
-  <g class="cls-1">
-    <path id="Rounded_Rectangle_1_copy_3" data-name="Rounded Rectangle 1 copy 3" class="cls-2" d="M364.828,523.734a5.25,5.25,0,0,1,5.25,5.25V554.25a5.25,5.25,0,0,1-10.5,0V528.984A5.251,5.251,0,0,1,364.828,523.734Z" transform="translate(-302.75 -334.5)"/>
-    <path id="Rounded_Rectangle_1_copy_3-2" data-name="Rounded Rectangle 1 copy 3" class="cls-2" d="M304.345,531.033a5.135,5.135,0,0,1-.169-7.266l8.532-8.516a5.268,5.268,0,0,1,7.449,7.435l-8.532,8.516A5.159,5.159,0,0,1,304.345,531.033Z" transform="translate(-302.75 -334.5)"/>
-    <path id="Rounded_Rectangle_1_copy_3-3" data-name="Rounded Rectangle 1 copy 3" class="cls-2" d="M425.373,530.562a5.171,5.171,0,0,0,.17-7.317l-8.592-8.575a5.3,5.3,0,0,0-7.5,7.486l8.592,8.576A5.2,5.2,0,0,0,425.373,530.562Z" transform="translate(-302.75 -334.5)"/>
+  <g
+     id="g28"
+     filter="url(#Filter_1)">
+    <path
+       style="fill:#047dd1;fill-rule:evenodd"
+       id="path30"
+       d="m 62.5,189.734 c 2.9,0 5.25,2.351 5.25,5.25 l 0,25.266 c 0,2.899 -2.35,5.25 -5.25,5.25 -2.899,0 -5.25,-2.351 -5.25,-5.25 l 0,-25.266 c 0,-2.899 2.351,-5.25 5.25,-5.25 z" />
+    <path
+       fill="rgb(4, 125, 209)"
+       fill-rule="evenodd"
+       id="path32"
+       d="M2.345,197.033 C0.288,194.980 0.212,191.727 2.176,189.767 L10.708,181.251 C12.672,179.292 15.931,179.367 17.988,181.420 C20.045,183.473 20.121,186.726 18.157,188.686 L9.625,197.202 C7.661,199.162 4.402,199.086 2.345,197.033 Z" />
+    <path
+       id="path34"
+       d="M123.373,196.562 C125.444,194.494 125.521,191.219 123.543,189.245 L114.951,180.670 C112.974,178.697 109.692,178.773 107.621,180.840 C105.549,182.907 105.473,186.183 107.450,188.156 L116.042,196.732 C118.020,198.705 121.302,198.629 123.373,196.562 Z"
+       fill="rgb(4, 125, 209)"
+       fill-rule="evenodd" />
   </g>
 </svg>

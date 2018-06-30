@@ -93,13 +93,15 @@ gulp.task("watch", gulp.parallel(
   "watch:images",
 ));
 
-gulp.task("build", gulp.parallel(
+gulp.task("build", gulp.series(
   "clean",
-  "copy",
-  "style",
-  "images",
-  "html",
-  "scripts"
+  gulp.parallel(
+    "copy",
+    "style",
+    "images",
+    "html",
+    "scripts"
+  )
 ));
 
 gulp.task("server", () => {

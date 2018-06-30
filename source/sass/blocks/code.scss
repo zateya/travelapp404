@@ -1,0 +1,26 @@
+.code {
+  display: flex;
+  flex-direction: row;
+  font-size: 120px;
+  line-height: 120px;
+  font-weight: 500;
+  font-family: "Neo Sans", "Arial", sans-serif;
+}
+
+.code__item {
+  padding-top: 42px;
+}
+
+.code__item--center {
+  position: relative;
+  display: block;
+  width: 125px;
+  height: 226px;
+  margin-left: 28px;
+  margin-right: 25px;
+  padding-top: 0;
+  background: url("../img/clock.svg") no-repeat center;
+  background-size: 125px 226px;
+  text-indent: -1000px;
+  overflow: hidden;
+}

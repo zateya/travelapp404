@@ -1,6 +1,13 @@
 @font-face {
-    font-family: 'TeX Gyre Heros';
-    src: url('../fonts/texgyreheros-bold-webfont.woff') format('woff')
-    font-weight: 700;
-    font-style: normal;
+  font-family: "TeX Gyre Heros";
+  src: url('../fonts/texgyreheros-bold-webfont.woff') format('woff');
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Neo Sans";
+  src: url("../fonts/neosans-medium.woff") format("woff");
+  font-weight: 500;
+  font-style: normal;
 }
