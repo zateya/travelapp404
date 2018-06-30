@@ -2,17 +2,15 @@
   display: flex;
   flex-direction: row;
   flex-wrap: nowrap;
-  width: 100%;
 }
 
 .error__code {
   width: 330px;
-  margin-right: 78px;
+  margin-right: 80px;
 }
 
 
 .error__message {
-  flex-grow: 1;
   flex-basis: 380px;
   padding: 15px 0;
 }
