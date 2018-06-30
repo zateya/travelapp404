@@ -456,13 +456,23 @@ img {
   line-height: 30px;
   font-family: "Montserrat", "Arial", sans-serif;
   color: #3d3d3d;
-  background-color: #f6f7fb; }
+  background-color: #f6f7fb;
+  letter-spacing: 0.01em; }
 
 .page__content {
   padding: 48px 57px; }
 
 .main__error {
   margin-top: 104px; }
+
+.logo {
+  display: inline-block;
+  vertical-align: baseline; }
+  .logo:hover {
+    opacity: 0.9; }
+
+.logo img {
+  display: block; }
 
 .visually-hidden {
   position: absolute;
@@ -479,9 +489,23 @@ img {
   width: 907px;
   min-height: 594px;
   border-radius: 8px;
-  -webkit-box-shadow: 0 23px 122px 0 rgba(0, 0, 0, 0.35);
-          box-shadow: 0 23px 122px 0 rgba(0, 0, 0, 0.35);
   background: url("../img/lines.svg") right -110px top -153px no-repeat, url("../img/circle.svg") left -149px bottom -437px no-repeat, #ffffff; }
+  .content::after {
+    content: "";
+    position: absolute;
+    display: block;
+    top: 44px;
+    right: 45px;
+    bottom: 14px;
+    left: 43px;
+    border-radius: 22px;
+    background-color: #ffffff;
+    -webkit-box-shadow: 0px 23px 122px 0px rgba(0, 0, 0, 0.35);
+            box-shadow: 0px 23px 122px 0px rgba(0, 0, 0, 0.35);
+    z-index: -1; }
+
+.content__header {
+  padding-left: 3px; }
 
 .error {
   display: -webkit-box;
@@ -496,20 +520,32 @@ img {
   width: 100%; }
 
 .error__code {
-  margin-right: 74px; }
+  margin-right: 78px; }
 
 .error__message {
   -webkit-box-flex: 1;
       -ms-flex-positive: 1;
           flex-grow: 1;
   -ms-flex-preferred-size: 380px;
-      flex-basis: 380px; }
+      flex-basis: 380px;
+  padding: 15px 0; }
+
+.message__title {
+  margin-top: 0;
+  margin-bottom: 12px; }
+
+.message__text {
+  margin: 12px 0; }
+
+.message__button {
+  margin-top: 18px; }
 
 .title {
   font-size: 28px;
   line-height: 36px;
   font-weight: 700;
-  font-family: "TeX Gyre Heros", "Arial", sans-serif; }
+  font-family: "TeX Gyre Heros", "Arial", sans-serif;
+  letter-spacing: 0.016em; }
 
 .text {
   color: #808080; }
@@ -546,14 +582,17 @@ img {
   font-family: "Neo Sans", "Arial", sans-serif; }
 
 .code__item {
-  padding-top: 40px; }
+  padding-top: 42px; }
 
 .code__item--center {
   position: relative;
   display: block;
-  width: 184px;
-  height: 225px;
+  width: 125px;
+  height: 226px;
+  margin-left: 28px;
+  margin-right: 25px;
   padding-top: 0;
   background: url("../img/clock.svg") no-repeat center;
+  background-size: 125px 226px;
   text-indent: -1000px;
   overflow: hidden; }
