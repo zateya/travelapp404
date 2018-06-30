@@ -1,0 +1,22 @@
+<svg id="Группа_2" data-name="Группа 2" xmlns="http://www.w3.org/2000/svg" width="124.25" height="225">
+  <defs>
+    <style>
+      .cls-1{filter:url(#filter)}.cls-2{fill:#047dd1;fill-rule:evenodd}
+    </style>
+    <filter id="filter" filterUnits="userSpaceOnUse">
+      <feFlood result="flood" flood-color="#ed6355"/>
+      <feComposite result="composite" operator="in" in2="SourceGraphic"/>
+      <feBlend result="blend" in2="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g class="cls-1">
+    <path id="Rounded_Rectangle_1" data-name="Rounded Rectangle 1" class="cls-2" d="M364.875 334.5a5.25 5.25 0 0 1 5.25 5.25v25.266a5.25 5.25 0 1 1-10.5 0V339.75a5.249 5.249 0 0 1 5.25-5.25z" transform="translate(-302.75 -334.5)"/>
+    <path id="Rounded_Rectangle_1_copy" data-name="Rounded Rectangle 1 copy" class="cls-2" d="M425.319 362.967a5.136 5.136 0 0 1 .169 7.266l-8.527 8.516a5.266 5.266 0 0 1-7.444-7.435l8.527-8.516a5.153 5.153 0 0 1 7.275.169z" transform="translate(-302.75 -334.5)"/>
+    <path id="Rounded_Rectangle_1_copy_2" data-name="Rounded Rectangle 1 copy 2" class="cls-2" d="M304.355 363.438a5.174 5.174 0 0 0-.17 7.317l8.587 8.575a5.3 5.3 0 0 0 7.5-7.487l-8.587-8.575a5.19 5.19 0 0 0-7.33.17z" transform="translate(-302.75 -334.5)"/>
+  </g>
+  <g class="cls-1">
+    <path id="Rounded_Rectangle_1_copy_3" data-name="Rounded Rectangle 1 copy 3" class="cls-2" d="M364.828 523.734a5.25 5.25 0 0 1 5.25 5.25v25.266a5.25 5.25 0 0 1-10.5 0v-25.266a5.251 5.251 0 0 1 5.25-5.25z" transform="translate(-302.75 -334.5)"/>
+    <path id="Rounded_Rectangle_1_copy_3-2" data-name="Rounded Rectangle 1 copy 3" class="cls-2" d="M304.345 531.033a5.135 5.135 0 0 1-.169-7.266l8.532-8.516a5.268 5.268 0 0 1 7.449 7.435l-8.532 8.516a5.159 5.159 0 0 1-7.28-.169z" transform="translate(-302.75 -334.5)"/>
+    <path id="Rounded_Rectangle_1_copy_3-3" data-name="Rounded Rectangle 1 copy 3" class="cls-2" d="M425.373 530.562a5.171 5.171 0 0 0 .17-7.317l-8.592-8.575a5.3 5.3 0 0 0-7.5 7.486l8.592 8.576a5.2 5.2 0 0 0 7.33-.17z" transform="translate(-302.75 -334.5)"/>
+  </g>
+</svg>
