@@ -500,8 +500,8 @@ img {
     left: 43px;
     border-radius: 22px;
     background-color: #ffffff;
-    -webkit-box-shadow: 0px 23px 122px 0px rgba(0, 0, 0, 0.35);
-            box-shadow: 0px 23px 122px 0px rgba(0, 0, 0, 0.35);
+    -webkit-box-shadow: 0 23px 122px 0 rgba(0, 0, 0, 0.35);
+            box-shadow: 0 23px 122px 0 rgba(0, 0, 0, 0.35);
     z-index: -1; }
 
 .content__header {
