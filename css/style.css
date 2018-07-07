@@ -460,7 +460,7 @@ img {
   letter-spacing: 0.01em; }
 
 .page__content {
-  padding: 48px 57px; }
+  padding: 48px 60px 48px 57px; }
 
 .main__error {
   margin-top: 104px; }
@@ -516,16 +516,13 @@ img {
       -ms-flex-direction: row;
           flex-direction: row;
   -ms-flex-wrap: nowrap;
-      flex-wrap: nowrap;
-  width: 100%; }
+      flex-wrap: nowrap; }
 
 .error__code {
-  margin-right: 78px; }
+  width: 330px;
+  margin-right: 80px; }
 
 .error__message {
-  -webkit-box-flex: 1;
-      -ms-flex-positive: 1;
-          flex-grow: 1;
   -ms-flex-preferred-size: 380px;
       flex-basis: 380px;
   padding: 15px 0; }
